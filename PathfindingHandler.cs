@@ -15,7 +15,7 @@ public class PathfindingHandler : MonoBehaviour
     [SerializeField] private int mapSizeY;
     [SerializeField] private int mapSizeZ;
 
-    [Header ("Movment Grid Settings")]
+    [Header ("Movement Grid Settings")]
     [SerializeField] private float xAxisSpacing;
     [SerializeField] private float yAxisSpacing;
     [SerializeField] private float zAxisSpacing;
